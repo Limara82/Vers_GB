@@ -10,7 +10,7 @@
 
 ## Форматирование текста в формате markdown
 
-*Hello KaZ!*
+*Hello KaZakhstan!*
 
 **Полужирный**
 
